@@ -23,7 +23,7 @@ public class Exercicio2 {
         	   }
            }
 		 System.out.println("Foram Digitados " + par + " Números Pares!!");
-  	   System.out.println("Foram Digitados " + impar + " Números ímpares!!3");
+  	   System.out.println("Foram Digitados " + impar + " Números ímpares!!");
 	} 
 
 }
