@@ -13,7 +13,7 @@ public class Exercicio3 {
 		int idade = 0, cont21 = 0, cont50 = 0;
 		Scanner leia = new Scanner(System.in);
 		
-		System.out.println("Digite a sua Idade: ");
+		System.out.println("Digite a sua Idade: (Digite 99 para encerrar o programa) ");
 		idade = leia.nextInt();
 		
 		while(idade != 99) {
@@ -31,7 +31,7 @@ public class Exercicio3 {
 		}
 			System.out.println("Total de pessoas com menos de 21 anos: "+ cont21);
 			System.out.println("Total de pessoas com mais de 50 anos: " + cont50);
-			System.out.println("");
+			System.out.println("O programa está encerrado!");
 	}
 
 }
