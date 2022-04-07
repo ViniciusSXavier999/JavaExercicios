@@ -18,7 +18,7 @@ public class Animal {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
-	public String isSom() {
+	public String getSom() {
 		return som;
 	}
 	public void setSom(String som) {
